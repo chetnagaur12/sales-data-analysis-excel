@@ -1,0 +1,42 @@
+# Sales Data Analysis Using Excel
+
+## Project Overview
+This beginner-level project analyzes a small **sample retail sales dataset** using Microsoft Excel. It demonstrates basic data organization, a revenue formula, summary metrics, category-level aggregation, and a chart.
+
+## Tools Used
+- Microsoft Excel or a compatible spreadsheet application
+- Excel formulas: `SUM`, `AVERAGE`, `COUNTA`, and `SUMIF`
+- Column chart for comparing category revenue
+
+## Dataset
+The workbook contains 12 sample orders for January 2026. The dataset is fictional and created for learning purposes; it is not real business data.
+
+## Analysis Questions
+1. What is the total revenue?
+2. How many units were sold?
+3. How many orders are included?
+4. Which product category generated the most revenue?
+5. What is the average revenue per order?
+
+## How to Use
+1. Open `Sales_Data_Analysis_Project.xlsx`.
+2. Review the **Sales Data** sheet and the revenue formula in column G.
+3. Open the **Summary** sheet to review the calculated metrics and revenue-by-category chart.
+4. Change the sample values to see how the results update.
+
+## Key Findings
+Use the Summary sheet to confirm the exact values after opening the workbook. The chart compares revenue across Stationery, Accessories, and Home categories. Describe the category with the highest revenue and note that this is a small fictional sample, so the results should not be generalized to a real business.
+
+## Limitations
+- The dataset is small and fictional.
+- It covers only one month.
+- It does not include costs, profit, discounts, returns, or customer demographics.
+
+## Next Steps
+- Add more rows and analyze trends by month.
+- Calculate profit if cost data becomes available.
+- Build a more interactive dashboard with PivotTables and slicers.
+
+## Author
+Created as a beginner portfolio project to practice spreadsheet-based data analysis.
+
